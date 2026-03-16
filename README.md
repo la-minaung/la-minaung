@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm La Min Aung
 
-<!--
-**la-minaung/la-minaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.NET & Backend Developer
 
-Here are some ideas to get you started:
+Passionate about building high-performance systems and integrating warehouse automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** C#, Java, JavaScript, Kotlin, SQL
+- **Frameworks:** ASP.NET Core, ASP.NET WebForms, MVC, Angular, React
+- **Tools:** Docker, Git, SSMS, ZPL (Zebra Programming Language)
+- **Database:** MS SQL Server, SQLite
+
+## 📫 Connect with me
+
+- LinkedIn: [La Min Aung](https://www.linkedin.com/in/la-min-aung-506888175)
+- Email: [laminaung.dev@gmail.com](mailto:laminaung.dev@gmail.com)
