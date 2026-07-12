@@ -1,17 +1,21 @@
 # 👋 Hi, I'm La Min Aung
 
-.NET & Backend Developer
+### .NET Developer | C# | MS SQL Server
 
-Passionate about building high-performance systems and integrating warehouse automation.
+.NET Developer with 3+ years of experience building C# / ASP.NET systems, MS SQL Server database workflows, REST API integrations, and automation services for warehouse, robotics, and logistics platforms.
+
+Most of my professional work was developed for enterprise clients and cannot be shared publicly. This profile contains selected learning projects and technical experiments.
 
 ## 🛠 Tech Stack
 
-- **Languages:** C#, Java, JavaScript, Kotlin, SQL
-- **Frameworks:** ASP.NET Core, ASP.NET WebForms, MVC, Angular, React
-- **Tools:** Docker, Git, SSMS, ZPL (Zebra Programming Language)
-- **Database:** MS SQL Server, SQLite
+- **Backend:** C#, ASP.NET Core, ASP.NET Web Forms, MVC, REST APIs, Windows Services
+- **Database:** MS SQL Server, T-SQL, SSMS, SQLite
+- **Integration:** Modbus TCP, Hikrobot, Libiao Robotics, Zebra/ZPL
+- **Frontend / Mobile:** Angular, JavaScript, React, Java Android, Kotlin
+- **Tools:** Docker, Git, Crystal Reports
 
 ## 📫 Connect with me
 
-- LinkedIn: [La Min Aung](https://www.linkedin.com/in/laminaung-dev)
-- Email: [laminaung.dev@gmail.com](mailto:laminaung.dev@gmail.com)
+- **Portfolio:** [la-minaung.github.io](https://la-minaung.github.io/)
+- **LinkedIn:** [La Min Aung](https://www.linkedin.com/in/laminaung-dev/)
+- **Email:** [laminaung.dev@gmail.com](mailto:laminaung.dev@gmail.com)
