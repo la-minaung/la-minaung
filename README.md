@@ -13,5 +13,5 @@ Passionate about building high-performance systems and integrating warehouse aut
 
 ## 📫 Connect with me
 
-- LinkedIn: [La Min Aung](https://www.linkedin.com/in/la-min-aung-506888175)
+- LinkedIn: [La Min Aung](https://www.linkedin.com/in/laminaung-dev)
 - Email: [laminaung.dev@gmail.com](mailto:laminaung.dev@gmail.com)
