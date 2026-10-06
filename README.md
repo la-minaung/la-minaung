@@ -1,8 +1,8 @@
 # 👋 Hi, I'm La Min Aung
 
-### .NET Developer | C# | MS SQL Server
+### .NET Developer | C# | ASP.NET Core | MS SQL Server
 
-.NET Developer with 3+ years of experience building C# / ASP.NET systems, MS SQL Server database workflows, REST API integrations, and automation services for warehouse, robotics, and logistics platforms.
+.NET Developer with 4+ years of experience building C# / ASP.NET systems, MS SQL Server database workflows, REST API integrations, and automation services for warehouse, robotics, and logistics platforms. Experienced in PLC, robotics, and Zebra/ZPL integrations, as well as real-time operational dashboards for enterprise clients.
 
 Most of my professional work was developed for enterprise clients and cannot be shared publicly. This profile contains selected learning projects and technical experiments.
 
